@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "tayori - 方舟 (Official Video)",
+  "base_artist": "tayori",
+  "createdAt": "2025-12-14T13:55:04.162081Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Tayori",
+      "artist": "wacci",
+      "has_synced": false,
+      "path": "select/01_Tayori_wacci.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Kazeno Tayori.",
+      "artist": "Hazzie",
+      "has_synced": true,
+      "path": "select/02_Kazeno_Tayori._Hazzie.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Twinkle Star ~Tayori no Hoshi~",
+      "artist": "東京スカパラダイスオーケストラ",
+      "has_synced": false,
+      "path": "select/03_Twinkle_Star_~Tayori_no_Hoshi~_東京スカパラダイスオーケストラ.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Twinkle Star ~Tayori no Hoshi~",
+      "artist": "Tokyo Ska Paradise Orchestra",
+      "has_synced": false,
+      "path": "select/04_Twinkle_Star_~Tayori_no_Hoshi~_Tokyo_Ska_Paradise_Orchestra.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Kingyobachi Tayori no hanashi",
+      "artist": "金魚鉢たより(CV.芹澤優)",
+      "has_synced": true,
+      "path": "select/05_Kingyobachi_Tayori_no_hanashi_金魚鉢たより(CV.芹澤優).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "方舟",
+      "artist": "tayori",
+      "has_synced": false,
+      "path": "select/pl_01_方舟_tayori.txt"
+    }
+  ]
+}
